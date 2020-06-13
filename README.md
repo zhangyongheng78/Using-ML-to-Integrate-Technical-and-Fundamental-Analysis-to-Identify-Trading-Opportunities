@@ -5,4 +5,5 @@ Using Machine Learning Techniques to Integrate Technical and Fundamental Analysi
 
 ### Student Names: 
 Longxiang Dai, 70961656, longxiad@uci.edu
+
 Yongheng Zhang, 42664320, yonghenz@uci.edu
