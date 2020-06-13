@@ -15,7 +15,7 @@ Yongheng Zhang, 42664320, yonghenz@uci.edu
 ##### 1-Time Series DTW Sample.csv
 Records the cluster numbers of the time-series data based on K-means and Dynamic Time Wraping distance
 ##### 2-Time Series Euclidean Sample.csv
-Records the cluster numbers of the time-series data based on K-means and Dynamic Time Wraping distance
+Records the cluster numbers of the time-series data based on K-means and Euclidean distance
 
 
 #### Training Dataset:
