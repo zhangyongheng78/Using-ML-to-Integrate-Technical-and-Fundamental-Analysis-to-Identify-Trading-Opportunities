@@ -13,9 +13,9 @@ Yongheng Zhang, 42664320, yonghenz@uci.edu
 ### (III) - Our Dataset:
 #### Clustering Dataset:
 ##### 1-Time Series DTW Sample.csv
-Records the clutser numbers of the time-series data based on K-means and Dynamic Time Wraping distance
+Records the cluster numbers of the time-series data based on K-means and Dynamic Time Wraping distance
 ##### 2-Time Series Euclidean Sample.csv
-Records the clutser numbers of the time-series data based on K-means and Dynamic Time Wraping distance
+Records the cluster numbers of the time-series data based on K-means and Dynamic Time Wraping distance
 
 
 #### Training Dataset:
@@ -26,6 +26,7 @@ The dataset that we use for long-term prediction.
 
 
 ### (IV) - Our Notebooks:
+Since the runtime requirement for the notebook is around 1minute, we have deleted all the clustering and training steps. The results of those steps have already generated in files or final models. However, those steps are included in the html files that we uploaded to Canvas
 ##### 1-get_data.ipynb
 The notebook includes helpful functions to generate quarterly and daily features from SimFin and FRED datasets.
 ##### 2-Data Preprocessing.ipynb
