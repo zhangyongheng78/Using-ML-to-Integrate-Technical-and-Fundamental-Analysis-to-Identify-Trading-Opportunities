@@ -25,7 +25,7 @@ The dataset that we use for short-term prediction.
 The dataset that we use for long-term prediction.
 
 
-### (IV) - Our Notebook:
+### (IV) - Our Notebooks:
 ##### 1- get_data.ipynb
 The notebook includes helpful functions to generate quarterly and daily features from SimFin and FRED datasets.
 ##### 2- Data Preprocessing.ipynb
