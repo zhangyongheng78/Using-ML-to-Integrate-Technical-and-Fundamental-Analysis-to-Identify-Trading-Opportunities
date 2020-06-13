@@ -31,6 +31,6 @@ The notebook includes helpful functions to generate quarterly and daily features
 ##### 2-Data Preprocessing.ipynb
 Run the notebook to generate quarterly and daily and save the data into two csv files: merged quarterly data.csv, merged daily data.csv
 ##### 3-QOQ Prediction.ipynb
-Train models to make quarter over quarter (QOQ) predictions. To run the notebook using the sample data, you'll need to change the corresponding file path to the sample data.
+Train models to make quarter over quarter (QOQ) predictions. To run the notebook using the sample data, you'll need to change the corresponding file path to the sample data path.
 ##### 4-WOW Prediction.ipynb
-Train modesl to make week over week (WOW) predictions. To run the notebook using the sample data, you'll need to change the corresponding file path to the sample data.
+Train modesl to make week over week (WOW) predictions. To run the notebook using the sample data, you'll need to change the corresponding file path to the sample data path.
