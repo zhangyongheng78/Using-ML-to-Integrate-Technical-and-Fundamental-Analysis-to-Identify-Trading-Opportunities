@@ -10,15 +10,17 @@ Longxiang Dai, 70961656, longxiad@uci.edu
 Yongheng Zhang, 42664320, yonghenz@uci.edu
 
 
-### (III) - Our Datasets:
-#### Clustering Datasets:
+### (III) - Our Dataset:
+#### Clustering Dataset:
 ##### 1-Time Series DTW Sample.csv
 Records the cluster numbers of the time-series data based on K-means and Dynamic Time Wraping distance
 ##### 2-Time Series Euclidean Sample.csv
 Records the cluster numbers of the time-series data based on K-means and Euclidean distance
+##### 3-tweets_textblob.txt
+Monthly sentiment indicator of stocks generated from tweets using TextBlob
 
 
-#### Training Datasets:
+#### Training Dataset:
 ##### 1-Merged Daily Data Sample.csv
 The dataset that we use for short-term prediction
 ##### 2-Merged Quarterly Data Sample.csv
