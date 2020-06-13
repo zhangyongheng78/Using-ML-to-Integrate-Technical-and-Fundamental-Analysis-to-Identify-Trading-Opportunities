@@ -1,4 +1,4 @@
-# Stats170B Project
+# Stats170B Project, Spring 2020
 
 ### (I) - Project Title: 
 Using Machine Learning Techniques to Integrate Technical and Fundamental Analysis to Identify Trading Opportunities
@@ -35,3 +35,5 @@ Run the notebook to generate quarterly and daily and save the data into two csv 
 Train models to make quarter over quarter (QOQ) predictions. To run the notebook using the sample data, you'll need to change the corresponding file path to the sample data path.
 ##### 4-WOW Prediction.ipynb
 Train modesl to make week over week (WOW) predictions. To run the notebook using the sample data, you'll need to change the corresponding file path to the sample data path.
+##### 5-One Year Movement and Clustering Application.ipynb
+Train models to make one year movement predictions and apply clustering results in it. To run the notebook using the sample data, you'll need to change the corresponding file path to the sample data path.
