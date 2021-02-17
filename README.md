@@ -1,4 +1,4 @@
-# Stats170B: Project in Data Science, Spring 2020
+# Using Machine Learning Techniques to Integrate Technical and Fundamental Analysis to Identify Trading Opportunities
 
 ### (I) - Project Title: 
 Using Machine Learning Techniques to Integrate Technical and Fundamental Analysis to Identify Trading Opportunities
