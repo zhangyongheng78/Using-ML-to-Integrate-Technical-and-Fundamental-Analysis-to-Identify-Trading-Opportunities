@@ -1,7 +1,7 @@
 # Using Machine Learning Techniques to Integrate Technical and Fundamental Analysis to Identify Trading Opportunities
 
 ### (I) - Project Title: 
-Using Machine Learning Techniques to Integrate Technical and Fundamental Analysis to Identify Trading Opportunities
+Using Machine Learning Techniques to Integrate Technical and Fundamental Analysis to Identify Trading Opportunities (_Report.pdf)
 
 
 ### (II) - Student Names: 
