@@ -4,7 +4,7 @@
 Using Machine Learning Techniques to Integrate Technical and Fundamental Analysis to Identify Trading Opportunities (_Report.pdf)
 
 
-### (II) - Student Names: 
+### (II) - People: 
 Longxiang Dai, longxiad@uci.edu
 
 Yongheng Zhang, yonghenz@uci.edu
